@@ -1,0 +1,7 @@
+body {
+    background: magenta;
+}
+
+h1, h2, h3, h4, form {
+    text-align: center;
+}
